@@ -1,0 +1,13 @@
+.header {
+  max-width: 1319px;
+  margin: 0 auto;
+  padding-top: 17px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header > nav > a {
+  margin-left: 20px;
+  color: var(--color--white);
+  text-decoration: none;
+}

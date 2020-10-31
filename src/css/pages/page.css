@@ -1,0 +1,23 @@
+/* 
+ * Use classes and containers wisely to keep it dry
+ */
+ .hero {
+  background-image: url('../../img/HERO-BG.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 750px;
+ }
+
+.reservation_container {
+  max-width: 1208px;
+  margin: 0 auto;
+  padding-top: 87px;
+}
+
+.main {
+  max-width: 1208px;
+  margin: 0 auto;
+  margin-top: 88px;
+  margin-bottom: 88px;
+}

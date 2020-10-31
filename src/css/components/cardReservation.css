@@ -1,0 +1,6 @@
+.reservation_card {
+  width: 391px;
+  padding: 32px 24px 24px 24px;
+  border-radius: 4px;
+  background-color: var(--color--white);
+}
